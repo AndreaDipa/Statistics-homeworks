@@ -4,7 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Homework5
+namespace Homework6
 {
     internal static class Program
     {

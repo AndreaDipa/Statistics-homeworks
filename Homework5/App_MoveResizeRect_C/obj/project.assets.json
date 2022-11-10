@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\andre\\Desktop\\Nuova cartella\\Nuova cartella\\Dropbox\\PC\\Downloads\\App_MoveResizeRect_C\\App_MoveResizeRect_C\\App_MoveResizeRect_C.csproj",
+      "projectUniqueName": "C:\\Users\\andre\\source\\repos\\Homework5\\App_MoveResizeRect_C\\App_MoveResizeRect_C.csproj",
       "projectName": "App_MoveResizeRect_C",
-      "projectPath": "C:\\Users\\andre\\Desktop\\Nuova cartella\\Nuova cartella\\Dropbox\\PC\\Downloads\\App_MoveResizeRect_C\\App_MoveResizeRect_C\\App_MoveResizeRect_C.csproj",
+      "projectPath": "C:\\Users\\andre\\source\\repos\\Homework5\\App_MoveResizeRect_C\\App_MoveResizeRect_C.csproj",
       "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\andre\\Desktop\\Nuova cartella\\Nuova cartella\\Dropbox\\PC\\Downloads\\App_MoveResizeRect_C\\App_MoveResizeRect_C\\obj\\",
+      "outputPath": "C:\\Users\\andre\\source\\repos\\Homework5\\App_MoveResizeRect_C\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
